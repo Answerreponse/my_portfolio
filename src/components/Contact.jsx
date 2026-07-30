@@ -1,21 +1,6 @@
-import emailjs from "@emailjs/browser";
+
 
 function Contact() {
-  /*const sendEmail = (e) => {
-    e.preventDefault();
-
-    emailjs
-      .sendForm(
-        "service_gl1tklg",
-        "template_c7s5a5f",
-        e.target,
-        "jB_8WmPIOOcJaxIkG"
-      )
-      .then(() => {
-        alert("Message Sent Successfully");
-        e.target.reset();
-      });
-  };*/
 
   return (
     <section
